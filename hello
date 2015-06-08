@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html lang="es"><!--Indica que la web es en español-->
+
+  <head>
+  
+    <meta charset='utf-8'><!--Tipo de codificación de caracteres-->
+    
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    
+    <!--El comentario de arriba sirve para que los navegadores identifiquen los elementos nuevos de HTML5-->
+    
+    <title>CV de Elena Mateos Pérez</title><!--Título que aparece en el navegador-->
+    
+    <meta name="description" content="CV de Elena Mateos Perez."/><!--Descripción de la web. Para saber qué palabras clave utilizar, consultar en google trends-->
+    
+    
+      </head>
+      
+      <nav>
+
+    <ul><!--Lista desordenada-->
+    
+    <li><!--cada elemento de la lista--><a href="#">Nor naiz?</a><!--enlace--></li>
+    <li><a href="#">¿Quién soy?</a></li>
+    <li><a href="#">Experiencia profesional</a></li>
+    
+    </ul>
+    
+</nav>
