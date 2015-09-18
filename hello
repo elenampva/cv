@@ -19,6 +19,8 @@
     
       </head>
       
+      <body>
+      
       <nav>
 
     <ul><!--Lista desordenada-->
@@ -29,4 +31,5 @@
     
     </ul>
     
-</nav>
+    </nav>
+     <body>
